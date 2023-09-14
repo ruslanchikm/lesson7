@@ -1,0 +1,12 @@
+
+
+.class1 {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+
+}
+
+.class1 :hover{
+    border-color: red;
+}
